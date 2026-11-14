@@ -1,7 +1,7 @@
 <p align="center"><img src="screens/hero_boss.jpg" alt="일루전 포스 - 리바이어던 보스전" width="100%"></p>
 
 <h1 align="center">일루전 포스 · ILLUSION FORCE</h1>
-<p align="center"><b>베타 1.0.3</b> · 윈도우 · 안드로이드 · 15개 언어 · 한국어 음성</p>
+<p align="center"><b>베타 1.0.4</b> · 윈도우 · 안드로이드 · 15개 언어 · 한국어 음성</p>
 
 <p align="center"><b>가로와 세로 스크롤을 오가는 오리지널 슈팅 게임</b><br>
 두 시험 비행사, 되풀이되는 세계, 그리고 깨어나지 않는 하늘의 이야기.</p>
@@ -27,9 +27,9 @@
 
 | 파일 | 기기 |
 |---|---|
-| `IllusionForce_Beta1.0.3_Unity_Win64.zip` | 윈도우 64비트 (유니티판, 기본) |
-| `IllusionForce_Beta1.0.3_Godot_Win64.zip` | 윈도우 64비트 (고닷판) |
-| `IllusionForce_Beta1.0.3_Android.apk` | 안드로이드 |
+| `IllusionForce_Beta1.0.4_Unity_Win64.zip` | 윈도우 64비트 (유니티판, 기본) |
+| `IllusionForce_Beta1.0.4_Godot_Win64.zip` | 윈도우 64비트 (고닷판) |
+| `IllusionForce_Beta1.0.4_Android.apk` | 안드로이드 |
 
 - **윈도우:** 압축을 풀고 `IllusionForce.exe`를 실행합니다.
 - **안드로이드:** 설치 파일(APK)을 설치합니다. 예전 시험판이 있으면 먼저 지운 뒤 설치하세요.
@@ -53,7 +53,7 @@
 
 ### 약점 무기 보스전
 - 무기는 **트윈 샷, 백 샷, 레이저, 호밍, 플라즈마, 블레이드** 여섯 가지이고, 무기마다 모아 쏘기가 있습니다.
-- 보스는 형태마다 **약점 무기**가 다릅니다. 보스가 나타나면 오퍼레이터가 **스캔**으로 약점 부위를 표시하고 약점 무기를 알려 줍니다. 보스가 변형하면 다시 스캔합니다.
+- 보스는 형태마다 **약점 무기**가 다릅니다. 보스가 나타나면 오퍼레이터가 목표를 와이어프레임으로 훑는 **스캔**으로 약점 부위를 표시하고 약점 무기를 알려 줍니다. 보스가 변형하면 다시 스캔합니다.
 - 거대한 적 빔을 모아 쏜 빔으로 맞받아치는 **빔 크래시**가 있습니다.
 - 탄과 빔을 아슬아슬하게 스치는 **버즈**로 게이지를 채우면 BUSTER / OVERDRIVE 모드가 발동합니다.
 - **스펙트럴 분신**은 잔상을 남겨 두었다가 그 자리와 위치를 바꿉니다.
@@ -88,7 +88,7 @@
 <details>
 <summary><b>English</b></summary>
 
-### ILLUSION FORCE — BETA 1.0.3
+### ILLUSION FORCE — BETA 1.0.4
 
 An original shoot 'em up that switches between horizontal and vertical scrolling. Two test pilots, a world caught in a loop, and a sky that refuses to wake up.
 
