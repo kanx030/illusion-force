@@ -1,9 +1,25 @@
-# ILLUSION FORCE — BETA 1.0
+<p align="center"><img src="screens/hero_boss.jpg" alt="ILLUSION FORCE - LEVIATHAN boss battle" width="100%"></p>
 
-**An original shoot 'em up that switches between horizontal and vertical scrolling.**
-Two test pilots, a world caught in a loop, and a sky that refuses to wake up.
+<h1 align="center">ILLUSION FORCE</h1>
+<p align="center"><b>BETA 1.0.1</b> · Windows · Android · 15 languages</p>
+
+<p align="center"><b>An original shoot 'em up that switches between horizontal and vertical scrolling.</b><br>
+Two test pilots, a world caught in a loop, and a sky that refuses to wake up.</p>
+
+<p align="center"><a href="../../releases"><b>▶ Download the latest release</b></a></p>
 
 > © 2026 KIM JUHYUN. All rights reserved.
+
+<table>
+<tr>
+<td><img src="screens/vertical.jpg" alt="Vertical-scroll zone"></td>
+<td><img src="screens/beamclash.jpg" alt="Beam clash"></td>
+</tr>
+<tr>
+<td><img src="screens/zonex_ioncannon.jpg" alt="Zone X"></td>
+<td><img src="screens/ending_still.jpg" alt="True-ending epilogue"></td>
+</tr>
+</table>
 
 ## Download
 
@@ -11,9 +27,9 @@ Get the files from the **[Releases](../../releases)** page.
 
 | File | Platform |
 |---|---|
-| `IllusionForce_Beta1.0_Unity_Win64.zip` | Windows 64-bit (Unity edition, main build) |
+| `IllusionForce_Beta1.0.1_Unity_Win64.zip` | Windows 64-bit (Unity edition, main build) |
 | `IllusionForce_Beta1.0_Godot_Win64.zip` | Windows 64-bit (Godot edition) |
-| `IllusionForce_Beta1.0_Android.apk` | Android (arm64) |
+| `IllusionForce_Beta1.0.1_Android.apk` | Android (arm64) |
 
 - **Windows:** unzip the archive and run `IllusionForce.exe`.
 - **Android:** allow installs from unknown sources, then install the APK. Uninstall any older test build first.
@@ -37,6 +53,8 @@ From there the war splits in two: against the Earth Federation and against the a
 - **Beam clash:** meet a giant enemy beam with your own charged beam. **Buzz** close to bullets and beams to fill your gauge and unleash BUSTER / OVERDRIVE mode.
 - **Spectral Split:** leave an afterimage of your ship behind, then swap places with it.
 
+<p align="center"><img src="screens/hero_boss.jpg" width="49%" alt="SCAN weak points"> <img src="screens/beamclash.jpg" width="49%" alt="Beam clash"></p>
+
 ### Presentation
 - Fully 3D-rendered ships and bosses, with cinematic opening, Zone X and ending sequences.
 - A true-ending epilogue told in **hand-painted oil-style stills**.
@@ -44,10 +62,14 @@ From there the war splits in two: against the Earth Federation and against the a
 - **Subtitles and menus in 15 languages.**
 - An original soundtrack.
 
+<p align="center"><img src="screens/zonex_exframe.jpg" width="49%" alt="EX frame"> <img src="screens/ending_record.jpg" width="49%" alt="Epilogue"></p>
+
 ### Controls
 - Keyboard, gamepad and touch (Android). Button prompts switch live with the device you use.
 - The ship-select screen shows a **live demo** of every control, performed by the ship you pick.
-- Options for the weak-point frames, character / operator voice and more.
+- Options for the weak-point frames, character / operator voice, touch sensitivity (Android) and more.
+
+<p align="center"><img src="screens/shipselect.jpg" width="80%" alt="Ship select with live controls demo"></p>
 
 ## Feedback
 
@@ -55,7 +77,7 @@ This is a beta. Bug reports and impressions are very welcome in **[Issues](../..
 
 ---
 
-# 일루전 포스 — 베타 1.0
+# 일루전 포스 — 베타 1.0.1
 
 **가로와 세로 스크롤을 오가는 오리지널 슈팅 게임.**
 두 시험 비행사, 되풀이되는 세계, 그리고 깨어나지 않는 하늘의 이야기.
@@ -95,7 +117,7 @@ This is a beta. Bug reports and impressions are very welcome in **[Issues](../..
 ### 조작
 - 키보드, 게임패드, 터치(안드로이드)를 지원하고, 쓰는 기기에 맞춰 버튼 표시가 바로 바뀝니다.
 - 기체 선택 화면에서 고른 기체가 모든 조작을 직접 **시연**합니다.
-- 약점 부위 표시, 등장인물·오퍼레이터 음성 켜기·끄기 등 옵션이 있습니다.
+- 약점 부위 표시, 등장인물·오퍼레이터 음성 켜기·끄기, 터치 감도(안드로이드) 등 옵션이 있습니다.
 
 ## 의견·버그 제보
 
