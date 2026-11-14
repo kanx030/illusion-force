@@ -1,7 +1,7 @@
 <p align="center"><img src="screens/hero_boss.jpg" alt="일루전 포스 - 리바이어던 보스전" width="100%"></p>
 
 <h1 align="center">일루전 포스 · ILLUSION FORCE</h1>
-<p align="center"><b>베타 1.0.2</b> · 윈도우 · 안드로이드 · 15개 언어 · 한국어 음성</p>
+<p align="center"><b>베타 1.0.3</b> · 윈도우 · 안드로이드 · 15개 언어 · 한국어 음성</p>
 
 <p align="center"><b>가로와 세로 스크롤을 오가는 오리지널 슈팅 게임</b><br>
 두 시험 비행사, 되풀이되는 세계, 그리고 깨어나지 않는 하늘의 이야기.</p>
@@ -27,9 +27,9 @@
 
 | 파일 | 기기 |
 |---|---|
-| `IllusionForce_Beta1.0.2_Unity_Win64.zip` | 윈도우 64비트 (유니티판, 기본) |
-| `IllusionForce_Beta1.0.2_Godot_Win64.zip` | 윈도우 64비트 (고닷판) |
-| `IllusionForce_Beta1.0.2_Android.apk` | 안드로이드 |
+| `IllusionForce_Beta1.0.3_Unity_Win64.zip` | 윈도우 64비트 (유니티판, 기본) |
+| `IllusionForce_Beta1.0.3_Godot_Win64.zip` | 윈도우 64비트 (고닷판) |
+| `IllusionForce_Beta1.0.3_Android.apk` | 안드로이드 |
 
 - **윈도우:** 압축을 풀고 `IllusionForce.exe`를 실행합니다.
 - **안드로이드:** 설치 파일(APK)을 설치합니다. 예전 시험판이 있으면 먼저 지운 뒤 설치하세요.
@@ -58,6 +58,11 @@
 - 탄과 빔을 아슬아슬하게 스치는 **버즈**로 게이지를 채우면 BUSTER / OVERDRIVE 모드가 발동합니다.
 - **스펙트럴 분신**은 잔상을 남겨 두었다가 그 자리와 위치를 바꿉니다.
 
+### 난이도와 점수
+- 난이도는 **아주 쉬움 · 쉬움 · 보통 · 어려움 · 극한** 다섯 단계입니다. 아주 쉬움은 슈팅 게임이 처음인 분도 이야기를 끝까지 볼 수 있게 탄과 보스를 크게 약하게 했습니다.
+- 난이도가 높을수록 점수 배율이 올라갑니다(×0.5 ~ ×1.7). 노미스·약점 무기 처치·클리어 보너스가 있고, 점수판에 난이도가 함께 표시됩니다.
+- 2회차부터는 회차마다 적 배치와 보스 패턴 순서가 달라집니다.
+
 ### 연출
 - 3D로 그린 기체와 보스, 그리고 오프닝·존 X·엔딩 연출이 있습니다.
 - 진 엔딩 후일담은 **손으로 그린 듯한 유화풍 정지 그림**으로 펼쳐집니다.
@@ -83,7 +88,7 @@
 <details>
 <summary><b>English</b></summary>
 
-### ILLUSION FORCE — BETA 1.0.2
+### ILLUSION FORCE — BETA 1.0.3
 
 An original shoot 'em up that switches between horizontal and vertical scrolling. Two test pilots, a world caught in a loop, and a sky that refuses to wake up.
 
@@ -93,6 +98,7 @@ An original shoot 'em up that switches between horizontal and vertical scrolling
 
 **Features**
 - 17 zones alternating horizontal and vertical scrolling, with branching routes, five bad endings and a true ending. The world rewinds into the next loop, and your pilots remember.
+- Five difficulties from VERY EASY to EXTREME, with score multipliers (×0.5 – ×1.7) and bonuses; enemy layouts change every loop from loop 2.
 - Six weapons with charge attacks. Every boss phase has a weak weapon, revealed by the operator's SCAN; beam clash; buzz-powered BUSTER / OVERDRIVE; Spectral Split.
 - 3D ships and bosses, cinematic sequences and an oil-painted true-ending epilogue.
 - Korean voice acting, English operator voice, subtitles and menus in 15 languages, original soundtrack.
