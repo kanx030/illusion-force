@@ -1,7 +1,7 @@
 <p align="center"><img src="screens/hero_boss.jpg" alt="일루전 포스 - 리바이어던 보스전" width="100%"></p>
 
 <h1 align="center">일루전 포스 · ILLUSION FORCE</h1>
-<p align="center"><b>베타 1.0.4</b> · 윈도우 · 안드로이드 · 15개 언어 · 한국어 음성</p>
+<p align="center"><b>베타 1.0.5</b> · 윈도우 · 안드로이드 · 15개 언어 · 한국어 음성</p>
 
 <p align="center"><b>가로와 세로 스크롤을 오가는 오리지널 슈팅 게임</b><br>
 두 시험 비행사, 되풀이되는 세계, 그리고 깨어나지 않는 하늘의 이야기.</p>
@@ -27,9 +27,9 @@
 
 | 파일 | 기기 |
 |---|---|
-| `IllusionForce_Beta1.0.4_Unity_Win64.zip` | 윈도우 64비트 (유니티판, 기본) |
-| `IllusionForce_Beta1.0.4_Godot_Win64.zip` | 윈도우 64비트 (고닷판) |
-| `IllusionForce_Beta1.0.4_Android.apk` | 안드로이드 |
+| `IllusionForce_Beta1.0.5_Unity_Win64.zip` | 윈도우 64비트 (유니티판, 기본) |
+| `IllusionForce_Beta1.0.5_Godot_Win64.zip` | 윈도우 64비트 (고닷판) |
+| `IllusionForce_Beta1.0.5_Android.apk` | 안드로이드 |
 
 - **윈도우:** 압축을 풀고 `IllusionForce.exe`를 실행합니다.
 - **안드로이드:** 설치 파일(APK)을 설치합니다. 예전 시험판이 있으면 먼저 지운 뒤 설치하세요.
@@ -88,7 +88,7 @@
 <details>
 <summary><b>English</b></summary>
 
-### ILLUSION FORCE — BETA 1.0.4
+### ILLUSION FORCE — BETA 1.0.5
 
 An original shoot 'em up that switches between horizontal and vertical scrolling. Two test pilots, a world caught in a loop, and a sky that refuses to wake up.
 
