@@ -1,7 +1,7 @@
 <p align="center"><img src="screens/hero_boss.jpg" alt="일루전 포스 - 리바이어던 보스전" width="100%"></p>
 
 <h1 align="center">일루전 포스 · ILLUSION FORCE</h1>
-<p align="center"><b>베타 1.0.5</b> · 윈도우 · 안드로이드 · 15개 언어 · 한국어 음성</p>
+<p align="center"><b>베타 1.0.6</b> · 윈도우 · 안드로이드 · 15개 언어 · 한국어 음성</p>
 
 <p align="center"><b>가로와 세로 스크롤을 오가는 오리지널 슈팅 게임</b><br>
 두 시험 비행사, 되풀이되는 세계, 그리고 깨어나지 않는 하늘의 이야기.</p>
@@ -27,9 +27,9 @@
 
 | 파일 | 기기 |
 |---|---|
-| `IllusionForce_Beta1.0.5_Unity_Win64.zip` | 윈도우 64비트 (유니티판, 기본) |
-| `IllusionForce_Beta1.0.5_Godot_Win64.zip` | 윈도우 64비트 (고닷판) |
-| `IllusionForce_Beta1.0.5_Android.apk` | 안드로이드 |
+| `IllusionForce_Beta1.0.6_Unity_Win64.zip` | 윈도우 64비트 (유니티판, 기본) |
+| `IllusionForce_Beta1.0.6_Godot_Win64.zip` | 윈도우 64비트 (고닷판) |
+| `IllusionForce_Beta1.0.6_Android.apk` | 안드로이드 |
 
 - **윈도우:** 압축을 풀고 `IllusionForce.exe`를 실행합니다.
 - **안드로이드:** 설치 파일(APK)을 설치합니다. 예전 시험판이 있으면 먼저 지운 뒤 설치하세요.
@@ -48,6 +48,7 @@
 - 구름바다, 네온 도시, 심해 해구, 궤도 링, 허수 차원 등 가로·세로 스크롤을 오가는 **17개 구역**이 있습니다.
 - 루트가 갈라지고, **배드 엔딩 다섯 개**와 **진 엔딩** 하나가 있습니다. 멸망한 세계는 다음 회차로 되감기고, 파일럿은 그 기억을 간직합니다.
 - 2회차부터는 강화된 **EX 기체**로 시작하고, 진 엔딩을 보면 숨겨진 모드가 열립니다.
+- 타이틀 메뉴의 **카이의 기록**에서 숨겨진 기록 18개를 다시 읽을 수 있습니다. 기록마다 카이가 직접 읽는 음성 메모가 붙고, 존 X 이벤트와 배드 엔딩을 볼 때마다 기록이 더 열립니다.
 
 <p align="center"><img src="screens/zonex_exframe.jpg" width="80%" alt="EX 기체"></p>
 
@@ -75,7 +76,8 @@
 ### 조작
 - 키보드, 게임패드, 터치(안드로이드)를 지원하고, 쓰는 기기에 맞춰 버튼 표시가 바로 바뀝니다.
 - 기체 선택 화면에서 고른 기체가 모든 조작을 직접 **시연**합니다.
-- 약점 부위 표시, 등장인물·오퍼레이터 음성 켜기·끄기, 터치 감도(안드로이드) 등 옵션이 있습니다.
+- 옵션은 **그래픽 · 게임 · 사운드 · 조작 · 기타**로 나뉘어 있습니다. 약점 부위 표시, 등장인물·오퍼레이터 음성 켜기·끄기, 터치 감도(안드로이드) 등을 고를 수 있습니다.
+- 키보드와 게임패드 버튼을 따로 **다시 지정**할 수 있고, 안드로이드에서는 터치 버튼의 위치와 크기를 바꿀 수 있습니다.
 
 <p align="center"><img src="screens/shipselect.jpg" width="80%" alt="기체 선택 화면과 조작 시연"></p>
 
@@ -88,7 +90,7 @@
 <details>
 <summary><b>English</b></summary>
 
-### ILLUSION FORCE — BETA 1.0.5
+### ILLUSION FORCE — BETA 1.0.6
 
 An original shoot 'em up that switches between horizontal and vertical scrolling. Two test pilots, a world caught in a loop, and a sky that refuses to wake up.
 
@@ -98,11 +100,12 @@ An original shoot 'em up that switches between horizontal and vertical scrolling
 
 **Features**
 - 17 zones alternating horizontal and vertical scrolling, with branching routes, five bad endings and a true ending. The world rewinds into the next loop, and your pilots remember.
+- Kai's Record: a title-menu archive of 18 hidden records, each with a voiced memo from Kai, unlocked through the Zone X event and the bad endings.
 - Five difficulties from VERY EASY to EXTREME, with score multipliers (×0.5 – ×1.7) and bonuses; enemy layouts change every loop from loop 2.
 - Six weapons with charge attacks. Every boss phase has a weak weapon, revealed by the operator's SCAN; beam clash; buzz-powered BUSTER / OVERDRIVE; Spectral Split.
 - 3D ships and bosses, cinematic sequences and an oil-painted true-ending epilogue.
 - Korean voice acting, English operator voice, subtitles and menus in 15 languages, original soundtrack.
-- Keyboard, gamepad and touch, with a live controls demo on the ship-select screen.
+- Keyboard, gamepad and touch, with a live controls demo on the ship-select screen. Options grouped into Graphics / Game / Sound / Controls / Other; keyboard and gamepad buttons can be remapped, and the Android touch buttons can be moved and resized.
 
 **Feedback:** please open an [Issue](../../issues).
 
