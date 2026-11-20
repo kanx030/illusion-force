@@ -1,7 +1,7 @@
 <p align="center"><img src="screens/hero_boss.jpg" alt="일루전 포스 - 리바이어던 보스전" width="100%"></p>
 
 <h1 align="center">일루전 포스 · ILLUSION FORCE</h1>
-<p align="center"><b>베타 1.0.6</b> · 윈도우 · 안드로이드 · 15개 언어 · 한국어 음성</p>
+<p align="center"><b>베타 1.0.7</b> · 윈도우 · 안드로이드 · 15개 언어 · 한국어 음성</p>
 
 <p align="center"><b>가로와 세로 스크롤을 오가는 오리지널 슈팅 게임</b><br>
 두 시험 비행사, 되풀이되는 세계, 그리고 깨어나지 않는 하늘의 이야기.</p>
@@ -27,9 +27,9 @@
 
 | 파일 | 기기 |
 |---|---|
-| `IllusionForce_Beta1.0.6_Unity_Win64.zip` | 윈도우 64비트 (유니티판, 기본) |
-| `IllusionForce_Beta1.0.6_Godot_Win64.zip` | 윈도우 64비트 (고닷판) |
-| `IllusionForce_Beta1.0.6_Android.apk` | 안드로이드 |
+| `IllusionForce_Beta1.0.7_Unity_Win64.zip` | 윈도우 64비트 (유니티판, 기본) |
+| `IllusionForce_Beta1.0.7_Godot_Win64.zip` | 윈도우 64비트 (고닷판) |
+| `IllusionForce_Beta1.0.7_Android.apk` | 안드로이드 |
 
 - **윈도우:** 압축을 풀고 `IllusionForce.exe`를 실행합니다.
 - **안드로이드:** 설치 파일(APK)을 설치합니다. 예전 시험판이 있으면 먼저 지운 뒤 설치하세요.
@@ -81,6 +81,15 @@
 
 <p align="center"><img src="screens/shipselect.jpg" width="80%" alt="기체 선택 화면과 조작 시연"></p>
 
+## 1.0.7에서 바뀐 점
+
+- **카이의 기록:** 기록을 읽는 동안 배경 음악이 꺼지고, 모든 음성 메모가 빠짐없이 재생됩니다. 터치·게임패드 안내를 넣고, 끌어서 넘겨 볼 수 있게 했습니다.
+- **약점 표시:** 보스가 변형한 뒤 다시 스캔한 결과가 나온 다음에만 약점 부위 글자가 나옵니다.
+- **기체 표시:** 플레이어 기체가 언제나 보스 몸체 앞에 그려집니다.
+- **존 B · 존 X:** 배경을 다듬었습니다.
+- **끊김 줄이기:** 스테이지 도중 화면이 잠깐 멈추던 현상을 줄였습니다(50ms가 넘는 프레임 45회 → 7회). 보스 모델을 구역 준비 때 미리 만들어 등장 순간에 끊기지 않습니다.
+- **고닷판:** "트윈 샷 샷"으로 나오던 무기 이름을 고쳤습니다.
+
 ## 의견·버그 제보
 
 베타 버전입니다. [이슈](../../issues)에 버그와 감상을 남겨 주세요.
@@ -90,7 +99,7 @@
 <details>
 <summary><b>English</b></summary>
 
-### ILLUSION FORCE — BETA 1.0.6
+### ILLUSION FORCE — BETA 1.0.7
 
 An original shoot 'em up that switches between horizontal and vertical scrolling. Two test pilots, a world caught in a loop, and a sky that refuses to wake up.
 
@@ -106,6 +115,8 @@ An original shoot 'em up that switches between horizontal and vertical scrolling
 - 3D ships and bosses, cinematic sequences and an oil-painted true-ending epilogue.
 - Korean voice acting, English operator voice, subtitles and menus in 15 languages, original soundtrack.
 - Keyboard, gamepad and touch, with a live controls demo on the ship-select screen. Options grouped into Graphics / Game / Sound / Controls / Other; keyboard and gamepad buttons can be remapped, and the Android touch buttons can be moved and resized.
+
+**What's new in 1.0.7:** Kai's Record fixes (music off while reading, every voice memo plays, touch / gamepad hints and drag scrolling); weak-point text only after the re-scan result; the player ship is always drawn in front of boss bodies; Zone B / X background polish; fewer mid-stage hitches (frames over 50 ms: 45 → 7) and boss models built before their entrance; Godot: "Twin Shot" name fix.
 
 **Feedback:** please open an [Issue](../../issues).
 
