@@ -1,7 +1,7 @@
 <p align="center"><img src="screens/hero_boss.jpg" alt="일루전 포스 - 리바이어던 보스전" width="100%"></p>
 
 <h1 align="center">일루전 포스 · ILLUSION FORCE</h1>
-<p align="center"><b>베타 1.0.7</b> · 윈도우 · 안드로이드 · 15개 언어 · 한국어 음성</p>
+<p align="center"><b>베타 1.0.8</b> · 윈도우 · 안드로이드 · 15개 언어 · 한국어 음성</p>
 
 <p align="center"><b>가로와 세로 스크롤을 오가는 오리지널 슈팅 게임</b><br>
 두 시험 비행사, 되풀이되는 세계, 그리고 깨어나지 않는 하늘의 이야기.</p>
@@ -27,9 +27,9 @@
 
 | 파일 | 기기 |
 |---|---|
-| `IllusionForce_Beta1.0.7_Unity_Win64.zip` | 윈도우 64비트 (유니티판, 기본) |
-| `IllusionForce_Beta1.0.7_Godot_Win64.zip` | 윈도우 64비트 (고닷판) |
-| `IllusionForce_Beta1.0.7_Android.apk` | 안드로이드 |
+| `IllusionForce_Beta1.0.8_Unity_Win64.zip` | 윈도우 64비트 (유니티판, 기본) |
+| `IllusionForce_Beta1.0.8_Godot_Win64.zip` | 윈도우 64비트 (고닷판) |
+| `IllusionForce_Beta1.0.8_Android.apk` | 안드로이드 |
 
 - **윈도우:** 압축을 풀고 `IllusionForce.exe`를 실행합니다.
 - **안드로이드:** 설치 파일(APK)을 설치합니다. 예전 시험판이 있으면 먼저 지운 뒤 설치하세요.
@@ -81,6 +81,12 @@
 
 <p align="center"><img src="screens/shipselect.jpg" width="80%" alt="기체 선택 화면과 조작 시연"></p>
 
+## 1.0.8에서 바뀐 점
+
+- **고닷판 존 B:** 도시 배경 색을 유니티판에 맞췄습니다. 남색 도시에 하늘색·자홍·흰색 옥상 조명 띠, 촘촘한 옅은 창문, 차선이 그려진 파란 고속도로, 남색 안개가 깔립니다.
+- **고닷판 존 X 장면:** 기지를 더 크게 잡고, 궤도 고리를 크고 흰 호로 보여 줍니다. 지구는 대부분 화면 밖으로 빼고 어둡게 했고, 폭발은 주황·흰색입니다.
+- **유니티판·안드로이드:** 내용은 1.0.7과 같고 버전 표기만 바뀌었습니다.
+
 ## 1.0.7에서 바뀐 점
 
 - **카이의 기록:** 기록을 읽는 동안 배경 음악이 꺼지고, 모든 음성 메모가 빠짐없이 재생됩니다. 터치·게임패드 안내를 넣고, 끌어서 넘겨 볼 수 있게 했습니다.
@@ -99,7 +105,7 @@
 <details>
 <summary><b>English</b></summary>
 
-### ILLUSION FORCE — BETA 1.0.7
+### ILLUSION FORCE — BETA 1.0.8
 
 An original shoot 'em up that switches between horizontal and vertical scrolling. Two test pilots, a world caught in a loop, and a sky that refuses to wake up.
 
@@ -115,6 +121,8 @@ An original shoot 'em up that switches between horizontal and vertical scrolling
 - 3D ships and bosses, cinematic sequences and an oil-painted true-ending epilogue.
 - Korean voice acting, English operator voice, subtitles and menus in 15 languages, original soundtrack.
 - Keyboard, gamepad and touch, with a live controls demo on the ship-select screen. Options grouped into Graphics / Game / Sound / Controls / Other; keyboard and gamepad buttons can be remapped, and the Android touch buttons can be moved and resized.
+
+**What's new in 1.0.8:** Godot version only: Zone B city recoloured to match the Unity version (navy city, cyan / magenta / white roof light strips, dense pale windows, a blue lane-marked highway, navy haze); Zone X cutscene reframed (larger base, the orbital ring as a large near-white arc, Earth mostly out of frame and dimmer, orange / white impact blasts). Unity / Android: version number only.
 
 **What's new in 1.0.7:** Kai's Record fixes (music off while reading, every voice memo plays, touch / gamepad hints and drag scrolling); weak-point text only after the re-scan result; the player ship is always drawn in front of boss bodies; Zone B / X background polish; fewer mid-stage hitches (frames over 50 ms: 45 → 7) and boss models built before their entrance; Godot: "Twin Shot" name fix.
 
